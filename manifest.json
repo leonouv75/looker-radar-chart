@@ -1,0 +1,13 @@
+{
+  "dataStudio": {
+    "name": "Radar Chart",
+    "id": "radar_chart",
+    "company": "Instituto STEM",
+    "version": "1.0.0",
+    "components": {
+      "viz": "radar_chart.js"
+    },
+    "style": "radar_chart.css",
+    "icon": "radar_chart_icon"
+  }
+}
